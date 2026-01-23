@@ -1,3 +1,4 @@
+package basic;
 public class doWhileLopp {
     public static void main(String[] args) {
         int i = 0;

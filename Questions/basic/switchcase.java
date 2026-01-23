@@ -1,3 +1,4 @@
+package basic;
 import java.lang.classfile.instruction.SwitchCase;
 import java.util.*;
 
